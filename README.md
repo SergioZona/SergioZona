@@ -66,9 +66,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a href="https://github.com/SergioZona/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioZona&layout=compact&theme=github" alt="Languages" height="160" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SergioZona&theme=github-light&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="160" />
-  </a>
 </p>
 
 
