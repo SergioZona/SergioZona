@@ -20,8 +20,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="50%" align="right" alt="Github" src="https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?t=st=1654467317~exp=1654467917~hmac=19c56059047de50ff933ce5340bac0748a5ffa8ed039b61841b3b44f43c6c943&w=826" />
 
 - 🙎🏻‍ I’m currently a technology, finance and language enthusiast.
-- 🌱 I’m currently learning Advanced Machine Learning, LLMs and Computer vision.
-- 💻 I’m studying Systems and Computing Engineering and Economics @Universidad de los Andes.
+- 🌱 I’m currently learning Advanced Agentic Patterns, LLMs and Computer vision.
+- 💻 Master of Information Engineering @Universidad de los Andes.
 - 🤔 I’m looking for help with Quantum ML.
 - 💬 Ask me about anything, I am happy to help you.
 - 📫 How to reach me: sj.zonam@gmail.com.
